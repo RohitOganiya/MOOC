@@ -1,6 +1,6 @@
 import java.net.*;
 
-public class Main {
+public class net_demo {
 
     public static void main(String[] args) throws UnknownHostException {
         InetAddress localHost = InetAddress.getLocalHost();
